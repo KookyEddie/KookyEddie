@@ -1,3 +1,3 @@
-### Greetings, I'm KookyEddie  <img src="https://tenor.com/view/hufsa-the-groke-mummitrollet-moomin-tove-jansson-gif-16836166" width="50">
+### Greetings, I'm KookyEddie  <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="50">
 
 
