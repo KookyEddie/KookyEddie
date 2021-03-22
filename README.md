@@ -11,6 +11,6 @@ const KookyEddie = {
  challenge: "Not yet implemented"
 }
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KookyEddie&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KookyEddie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KookyEddie&show_icons=true&theme=radical)
 
