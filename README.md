@@ -2,5 +2,12 @@
 <img align='right' src="https://cdn.discordapp.com/attachments/744359252310622299/823665872357818399/Sans_titre.png" width="350">
 <p><em>Software Enginner at <a href="https://www.etsmtl.ca/">University of Montreal</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
-
+```javascript
+const KookyEddie = {
+  pronouns: "he" | "him",
+  code: [Javascript, PHP, C#, Java],
+  tools: [Laravel, Docker],
+ challenge: "Not yet implemented"
+}
+```
 
