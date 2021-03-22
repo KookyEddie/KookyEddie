@@ -8,7 +8,7 @@ const KookyEddie = {
   hobby: [Comics, Games, Books, Technology],
   code: [Javascript, PHP, C#, Java],
   tools: [Laravel, Zephyrus, Docker],
- challenge: "Not yet implemented"
+ challenge: "Surpass myself"
 }
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KookyEddie&show_icons=true&theme=radical)
