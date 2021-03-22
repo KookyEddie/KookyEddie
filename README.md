@@ -5,9 +5,12 @@
 ```javascript
 const KookyEddie = {
   pronouns: "he" | "him",
+  hobby: [Comics, Games, Books, Technology],
   code: [Javascript, PHP, C#, Java],
-  tools: [Laravel, Docker],
+  tools: [Laravel, Zephyrus, Docker],
  challenge: "Not yet implemented"
 }
 ```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KookyEddie&show_icons=true&theme=radical)
 
