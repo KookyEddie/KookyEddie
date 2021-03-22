@@ -1,3 +1,3 @@
-### Greetings, I'm KookyEddie  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50">
+### Greetings, I'm KookyEddie  <img src="https://tenor.com/biN1e.gif" width="50">
 
 
