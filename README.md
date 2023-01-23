@@ -4,7 +4,6 @@
 
 ```javascript
 const KookyEddie = {
-  pronouns: "he" | "him",
   hobby: [Comics, Games, Books, Technology],
   code: [Javascript, PHP, C#, Java],
   tools: [Laravel, Zephyrus, Docker],
