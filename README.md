@@ -1,5 +1,4 @@
 <h2> Greetings, I'm KookyEddie! <img src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="50"></h2>
-<img align='right' src="https://cdn.discordapp.com/attachments/733158145089863750/824388338898305044/Sans_titre.png" width="350">
 
 ```javascript
 const KookyEddie = {
